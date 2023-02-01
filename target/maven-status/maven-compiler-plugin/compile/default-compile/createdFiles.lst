@@ -1,0 +1,16 @@
+com\example\myprojectstore\models\Product.class
+com\example\myprojectstore\repositories\ProductRepository.class
+com\example\myprojectstore\models\User.class
+com\example\myprojectstore\models\Image.class
+com\example\myprojectstore\repositories\ImageRepository.class
+com\example\myprojectstore\controllers\ProductController.class
+com\example\myprojectstore\configurations\SecurityConfig.class
+com\example\myprojectstore\services\ProductService.class
+com\example\myprojectstore\services\CustomUserDetailsService.class
+com\example\myprojectstore\controllers\ImageController.class
+com\example\myprojectstore\controllers\UserController.class
+com\example\myprojectstore\repositories\UserRepository.class
+com\example\myprojectstore\services\UserService.class
+com\example\myprojectstore\controllers\AdminController.class
+com\example\myprojectstore\models\enums\Role.class
+com\example\myprojectstore\MyProjectStoreApplication.class
